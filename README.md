@@ -1,6 +1,6 @@
-# tf-demo-node-hello-world
+# %CUSTOM_PLUGIN_SERVICE_NAME%
 
-Simple Node.js hello world application for Azure App Service deployment.
+%CUSTOM_PLUGIN_SERVICE_DESCRIPTION%
 
 ## Local Development
 

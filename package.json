@@ -1,7 +1,7 @@
 {
-  "name": "tf-demo-node-hello-world",
+  "name": "%CUSTOM_PLUGIN_SERVICE_NAME%",
   "version": "1.0.0",
-  "description": "Simple Node.js hello world app for Azure App Service",
+  "description": "%CUSTOM_PLUGIN_SERVICE_DESCRIPTION%",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
